@@ -1,5 +1,6 @@
 # Prompt user to enter number / test if even or odd
 
+
 a = int(input("Please enter an integer: "))
 number = int(a)
 
