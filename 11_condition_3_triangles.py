@@ -17,6 +17,7 @@ c = int(input("The length of side c = "))
 while c < 0:
     print(int("Please insert a positive number:"))
 
+    
 if a != b and b != c and a != c:
  print("This a scalene triangle.")
 elif a == b and b == c:
