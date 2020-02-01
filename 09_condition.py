@@ -1,6 +1,6 @@
 # Collect string / test lehgnth
 
-a = input("Please enter a test string: ")
+a = str(input("Please enter a test string: "))
 
 if len(a) < 6:
     print("Your string is too short.")
